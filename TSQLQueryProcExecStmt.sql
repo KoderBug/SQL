@@ -1,0 +1,1 @@
+EXEC [dbo].[advGetProductCategory] @ProductName ='Accessories', @SubCatName = 'Bottles and Cages'
